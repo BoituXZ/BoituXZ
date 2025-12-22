@@ -76,6 +76,16 @@ A secure crowdfunding and donation platform empowering communities to support ca
 **Highlights:** Campaign management system, multi-payment support (online & manual), role-based access (creators, editors, donors), comprehensive audit trails, failed login tracking
 
 ---
+### Selah - Devotional Website 
+*Current project I'm actively building*
+
+Passion project of mine to help be consistent with my faith
+
+**Tech:** React, Supabase, Hono, bun, React, Tailwind, Vite, Google Cloud Platform 
+**Highlights:** Used the latest technologies to see how they feel like (bun vs npm) With a CI/CD pipeline on Google Cloud and Vercel
+View Site: (https://selahi.vercel.app/)
+
+---
 
 ### Calma - AI Mental Health Companion
 A **privacy-first** mental health platform with AI-powered conversation, secure therapist messaging, and appointment scheduling.
@@ -102,6 +112,7 @@ Data-driven agricultural platform empowering Southern African farmers with AI-dr
 ## Achievements & Certifications
 
 🥇 **Campus Creator Hackathon - Winner**  
+🥈 **Econet E-novate Expo 2025 - 3rd Place**  
 🥈 **Xplug NMB Hackathon - Finalist**  
 🌍 **Millennium Fellow** - Global leadership program  
 🔐 **(ISC)² Certified in Cybersecurity (CC)**  
