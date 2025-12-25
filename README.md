@@ -1,7 +1,7 @@
 # Hey there, I'm Boitumelo
 
 ```
-Full Stack Developer | Aspiring Application Security Engineer | Computer Science Student
+Full Stack Developer | Aspiring Cloud Security Engineer | Computer Science Student
 ```
 
 > *"Building secure, scalable applications while constantly breaking (and fixing) things to learn how they work."*
@@ -83,7 +83,7 @@ Passion project of mine to help be consistent with my faith
 
 **Tech:** React, Supabase, Hono, bun, React, Tailwind, Vite, Google Cloud Platform 
 **Highlights:** Used the latest technologies to see how they feel like (bun vs npm) With a CI/CD pipeline on Google Cloud and Vercel
-View Site: (https://selahi.vercel.app/)
+View Site: (https://selah.velorasoftware.com/)
 
 ---
 
